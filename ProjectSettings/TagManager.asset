@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GhostPlayer
+  - HumanPlayer
+  - Seal
+  - Floor
+  - Box
+  - Zombie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2045963547
+    locked: 0
+  - name: Decoration
+    uniqueID: 3498073727
+    locked: 0
+  - name: Enemies
+    uniqueID: 4162236863
+    locked: 0
+  - name: Interactables
+    uniqueID: 2741481983
+    locked: 0
+  - name: Players
+    uniqueID: 31731963
+    locked: 0
+  - name: Level
+    uniqueID: 3777227179
+    locked: 0
+  - name: UI
+    uniqueID: 2808172819
+    locked: 0
